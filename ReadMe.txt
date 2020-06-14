@@ -2,7 +2,7 @@ GO CORONA! ( Let Corona Conquer The World!)
 
 The objective of the game is to make the virus survive, by infecting as many people as possible. The way this works is- the virus chases everything that threatens its survival-
  The doctor, sanitizer, people washing hands, people wearing masks, etc.  And infect as many people as possible by thriving on them before jumping onto the next person!
-There is an antidote that is constantlly chasing the virus, so the virus has to beware of this and constantly keep moving ahead.
+There is an antidote that is constantly chasing the virus, so the virus has to beware of this and constantly keep moving ahead.
 If the virus remains stationery for a while, the antidote will come and take down the virus, thus making the player lose the game.
 Every time the virus reaches the end line, the game proceeds to the next level with increased speed.
 
