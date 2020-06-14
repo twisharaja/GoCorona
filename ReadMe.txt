@@ -6,7 +6,6 @@ There is an antidote that is constantly chasing the virus, so the virus has to b
 If the virus remains stationery for a while, the antidote will come and take down the virus, thus making the player lose the game.
 Every time the virus reaches the end line, the game proceeds to the next level with increased speed.
 
-
 PLAYING INSTRUCTIONS:
 
 1. To begin the game- hit any key
